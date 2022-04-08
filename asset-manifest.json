@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/masterclass/static/js/main.e3b82af3.js",
+    "main.js": "/masterclass/static/js/main.80991a8a.js",
     "index.html": "/masterclass/index.html",
-    "main.e3b82af3.js.map": "/masterclass/static/js/main.e3b82af3.js.map"
+    "main.80991a8a.js.map": "/masterclass/static/js/main.80991a8a.js.map"
   },
   "entrypoints": [
-    "static/js/main.e3b82af3.js"
+    "static/js/main.80991a8a.js"
   ]
 }
